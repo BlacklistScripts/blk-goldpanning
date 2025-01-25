@@ -11,4 +11,3 @@ Simple FiveM Gold Panning script, configurable zones, blips and loot table. Come
 
 <br>
 Discord: [Click Here](https://discord.gg/fzUqqQBSUf)
-<br>
