@@ -9,5 +9,4 @@ Simple FiveM Gold Panning script, configurable zones, blips and loot table. Come
 > <br>
 > **[ox_lib](https://github.com/overextended/ox_lib/releases/tag/v3.24.0)**
 
-<br>
 Discord: [Click Here](https://discord.gg/fzUqqQBSUf)
